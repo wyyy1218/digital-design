@@ -1,0 +1,19 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 6.8.11  2018-08-07 bk=1.4403 VDI=40 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port DDR_0 -pg 1 -y -510 -defaultsOSRD
+preplace port FIXED_IO_0 -pg 1 -y -490 -defaultsOSRD
+preplace inst cg_fpga_0 -pg 1 -lvl 2 -y -430 -defaultsOSRD
+preplace inst top_0 -pg 1 -lvl 1 -y -460 -defaultsOSRD
+preplace netloc cg_fpga_0_DDR 1 2 1 N
+preplace netloc top_0_txd 1 1 1 -260
+preplace netloc cg_fpga_0_clk_100M 1 0 3 -490 -240 NJ -240 80
+preplace netloc cg_fpga_0_FIXED_IO 1 2 1 N
+preplace netloc cg_fpga_0_tx_0 1 0 3 -500 -230 NJ -230 70
+levelinfo -pg 1 -520 -340 -70 200 -top -620 -bot 180
+"
+}
+{
+   "da_clkrst_cnt":"1"
+}

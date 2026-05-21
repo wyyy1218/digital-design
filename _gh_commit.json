@@ -1,0 +1,35 @@
+{
+  "sha": "1a737e3311cb21c4de0bbcf648a1a598e17ec9a8",
+  "node_id": "C_kwDOSjixPdoAKDFhNzM3ZTMzMTFjYjIxYzRkZTBiYmNmNjQ4YTFhNTk4ZTE3ZWM5YTg",
+  "url": "https://api.github.com/repos/wyyy1218/digital-design/git/commits/1a737e3311cb21c4de0bbcf648a1a598e17ec9a8",
+  "html_url": "https://github.com/wyyy1218/digital-design/commit/1a737e3311cb21c4de0bbcf648a1a598e17ec9a8",
+  "author": {
+    "name": "王玉",
+    "email": "2669236877@qq.com",
+    "date": "2026-05-21T04:49:19Z"
+  },
+  "committer": {
+    "name": "王玉",
+    "email": "2669236877@qq.com",
+    "date": "2026-05-21T04:49:19Z"
+  },
+  "tree": {
+    "sha": "92bb217fe4dc77f413833dd3dcfbeea86834294a",
+    "url": "https://api.github.com/repos/wyyy1218/digital-design/git/trees/92bb217fe4dc77f413833dd3dcfbeea86834294a"
+  },
+  "message": "初始提交：Lab0-Lab2 Vivado 工程与 Lab4 LoongArch32 处理器/SOC/TEMU",
+  "parents": [
+    {
+      "sha": "4824edad55abb1073db67f204d566dec5f6b55c2",
+      "url": "https://api.github.com/repos/wyyy1218/digital-design/git/commits/4824edad55abb1073db67f204d566dec5f6b55c2",
+      "html_url": "https://github.com/wyyy1218/digital-design/commit/4824edad55abb1073db67f204d566dec5f6b55c2"
+    }
+  ],
+  "verification": {
+    "verified": false,
+    "reason": "unsigned",
+    "signature": null,
+    "payload": null,
+    "verified_at": null
+  }
+}

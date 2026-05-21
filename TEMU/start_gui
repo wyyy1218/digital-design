@@ -1,0 +1,7 @@
+#!/bin/bash
+# TEMU GUI快速启动脚本（在TEMU根目录）
+
+export DISPLAY=:0
+cd "$(dirname "$0")"
+./gui/temu_gui "$@"
+

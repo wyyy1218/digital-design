@@ -1,0 +1,68 @@
+# Vivado generated
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.jou
+*.log
+*.pb
+*.wdf
+*.rpt
+*.backup.*
+.Xil/
+
+# Vivado IP generated netlists (regenerate in Vivado)
+*_sim_netlist.v
+*_sim_netlist.vhdl
+*_stub.v
+*_stub.vhdl
+*.dcp
+
+# Build outputs
+**/build/
+*.bit
+*.mcs
+inst.bin
+data.bin
+*.dump
+core*
+*.core
+
+# TEMU runtime / build
+TEMU/build/
+TEMU/loongarch_sc/build/
+TEMU/inst.bin
+TEMU/data.bin
+TEMU/log.txt
+TEMU/golden_trace.txt
+
+# TEMU GUI build artifacts
+TEMU/gui/build/
+TEMU/gui/Makefile
+TEMU/gui/*.o
+TEMU/gui/moc_*.cpp
+TEMU/gui/moc_*.o
+TEMU/gui/moc_predefs.h
+TEMU/gui/.qmake.stash
+TEMU/gui/temu_gui
+TEMU/gui/temu_gui_test
+
+# Trace comparison results
+*_trace_comparison.txt
+
+# Archives and course materials
+*.zip
+*.pdf
+*.doc
+*.docx
+*.pptx
+*.mp4
+*.tar.gz
+*.png
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~

@@ -1,0 +1,16 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 6.8.11  2018-08-07 bk=1.4403 VDI=40 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port DDR_0 -pg 1 -y -130 -defaultsOSRD
+preplace port FIXED_IO_0 -pg 1 -y -110 -defaultsOSRD
+preplace inst logic_gates_top_0 -pg 1 -lvl 1 -y 50 -defaultsOSRD
+preplace inst cg_fpga_0 -pg 1 -lvl 2 -y -50 -defaultsOSRD
+preplace netloc cg_fpga_0_DDR 1 2 1 N
+preplace netloc logic_gates_top_0_leds 1 1 1 230
+preplace netloc cg_fpga_0_FIXED_IO 1 2 1 N
+preplace netloc cg_fpga_0_btn 1 0 3 10 140 NJ 140 520
+levelinfo -pg 1 -10 120 380 540 -top -240 -bot 380
+"
+}
+
